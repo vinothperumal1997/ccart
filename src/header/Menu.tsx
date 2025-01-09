@@ -30,7 +30,7 @@ const Menu = () => {
               className="d-flex align-items-center mb-2 mb-lg-0"
             >
               <img
-                src="/path/to/logo.png" // Replace with your logo path
+                src="http://localhost:3000/logos/rubik_vinyl-cybersphere" // Replace with your logo path
                 alt="FreshCart Logo"
                 style={{ height: "30px" }}
                 className="me-2"
